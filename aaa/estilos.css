@@ -1,0 +1,23 @@
+html {
+  scroll-behavior: smooth;
+}
+
+p {
+  width: 600px;
+}
+
+body {
+  text-align: center;
+  margin: 0 auto;
+  width: 600px;
+
+
+}
+.toco {
+  list-style: none;
+}
+svg {
+  width: 50px;
+  display: inline;
+  fill:blue;
+}
